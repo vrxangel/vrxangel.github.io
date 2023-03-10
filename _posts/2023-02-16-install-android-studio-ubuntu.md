@@ -3,7 +3,7 @@ layout: post
 title: install Android Studio on Ubuntu
 description: Tutorial how to install Android Studio on Ubuntu
 summary: How to install Android Studio on Ubuntu?
-tags: coding
+tags: android, linux
 ---
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUpznYh8l_SLyxvrXfKhr7b2ZgkoX4TSwQSA&usqp=CAU)
 
