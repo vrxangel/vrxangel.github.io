@@ -19,6 +19,15 @@
     } ,
   
     {
+      "title"    : "install Android Studio on Ubuntu",
+      "description" : "Tutorial how to install Android Studio on Ubuntu",
+      "category" : "",
+      "tags"     : "coding",
+      "url"      : "/install-android-studio-ubuntu",
+      "date"     : "2023-02-16 00:00:00 +0700"
+    } ,
+  
+    {
       "title"    : "Staticman comments on a Jekyll site",
       "description" : "Generating comments on static sites with Staticman",
       "category" : "",
@@ -196,15 +205,6 @@
       "tags"     : "coding",
       "url"      : "/top-monospaced-fonts-for-coding",
       "date"     : "2016-11-27 00:00:00 +0700"
-    } ,
-  
-    {
-      "title"    : "Places where you can learn how to code",
-      "description" : "There many different options to learn to code online, so in this article, find places you can learn to code",
-      "category" : "",
-      "tags"     : "coding",
-      "url"      : "/places-where-you-can-learn-how-to-code",
-      "date"     : "2015-07-31 00:00:00 +0700"
     } 
   
 ]
