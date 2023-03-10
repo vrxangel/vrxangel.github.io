@@ -3,7 +3,7 @@ layout: post
 title: install Android Studio on Windows
 description: Tutorial how to install Android Studio on Windows
 summary: How to install Android Studio on Windows?
-tags: coding
+tags: android, windows
 ---
 ![](https://developer.android.com/static/codelabs/basic-android-kotlin-compose-install-android-studio/img/8e43aceb34f59418.png)
 
