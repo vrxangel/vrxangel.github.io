@@ -4,7 +4,7 @@
  <title>Vrx Angel</title>
  <link href="https://vrxangel.github.io/atom.xml" rel="self"/>
  <link href="https://vrxangel.github.io/"/>
- <updated>2023-03-10T21:35:12+07:00</updated>
+ <updated>2023-03-10T21:36:21+07:00</updated>
  <id>https://vrxangel.github.io</id>
  <author>
    <name>vrx angel</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>How to reduce the app size in Android Studio</title>
-   <link href="https://vrxangel.github.io/difference-between-font-formats"/>
+   <link href="https://vrxangel.github.io/reduce-app-size-android-studio"/>
    <updated>2023-03-09T00:00:00+07:00</updated>
-   <id>https://vrxangel.github.io/difference-between-font-formats</id>
+   <id>https://vrxangel.github.io/reduce-app-size-android-studio</id>
    <content type="html">&lt;p&gt;There are several ways to reduce the app size in Android Studio:&lt;/p&gt;
 
 &lt;ol&gt;
