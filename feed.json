@@ -65,6 +65,30 @@
         },
     
         {
+            "id": "https://vrxangel.github.io/install-android-studio-centos7",
+            "title": "install Android Studio on CentOS 7",
+            "summary": "Tutorial how to install Android Studio on CentOS 7",
+            "content_text": "To install Android Studio on CentOS 7, you can follow these steps:  Install Java Development Kit (JDK) by running the following command:    sudo yum install java-1.8.0-openjdk-devel            Download the latest version of Android Studio from the official website: https://developer.android.com/studio.    Extract the downloaded file using the following command:    tar -xf android-studio-ide-*.tar.gz        Move the extracted folder to /opt directory:    sudo mv android-studio /opt/        Create a symlink to make it easier to run Android Studio:    sudo ln -s /opt/android-studio/bin/studio.sh /usr/local/bin/android-studio        Start Android Studio by running the following command:    android-studio      That’s it! You have successfully installed Android Studio on CentOS 7.",
+            "content_html": "<p><img src=\"https://wpcademy.com/wp-content/uploads/2019/05/Android-Studio-on-CentOS-7.jpg\" alt=\"\" /></p><p>To install Android Studio on CentOS 7, you can follow these steps:</p><ol>  <li>Install Java Development Kit (JDK) by running the following command:    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>sudo yum install java-1.8.0-openjdk-devel</code></pre></div>    </div>  </li>  <li>    <p>Download the latest version of Android Studio from the official website: https://developer.android.com/studio.</p>  </li>  <li>Extract the downloaded file using the following command:    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>tar -xf android-studio-ide-*.tar.gz</code></pre></div>    </div>  </li>  <li>Move the extracted folder to /opt directory:    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>sudo mv android-studio /opt/</code></pre></div>    </div>  </li>  <li>Create a symlink to make it easier to run Android Studio:    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>sudo ln -s /opt/android-studio/bin/studio.sh /usr/local/bin/android-studio</code></pre></div>    </div>  </li>  <li>Start Android Studio by running the following command:    <div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>android-studio</code></pre></div>    </div>  </li></ol><p>That’s it! You have successfully installed Android Studio on CentOS 7.</p>",
+            "url": "https://vrxangel.github.io/install-android-studio-centos7",
+            
+            
+            
+            "tags": ["android,","linux"],
+            
+            "date_published": "2023-03-01T00:00:00+07:00",
+            "date_modified": "2023-03-01T00:00:00+07:00",
+            
+                "author":  {
+                "name": "vrx angel",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
             "id": "https://vrxangel.github.io/install-android-studio-ubuntu",
             "title": "install Android Studio on Ubuntu",
             "summary": "Tutorial how to install Android Studio on Ubuntu",
@@ -534,30 +558,6 @@
             
             "date_published": "2016-12-11T00:00:00+07:00",
             "date_modified": "2016-12-11T00:00:00+07:00",
-            
-                "author":  {
-                "name": "vrx angel",
-                "url": null,
-                "avatar": null
-                }
-                
-            
-        },
-    
-        {
-            "id": "https://vrxangel.github.io/top-monospaced-fonts-for-coding",
-            "title": "Top monospaced fonts for coding",
-            "summary": "Take a look at the fonts in this post that can make your text editor or terminal emulator look little bit nicer",
-            "content_text": "Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.",
-            "content_html": "<p>Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.</p><p>Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.</p><p>VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.</p><p>Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.</p><p>Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.</p>",
-            "url": "https://vrxangel.github.io/top-monospaced-fonts-for-coding",
-            
-            
-            
-            
-            
-            "date_published": "2016-11-27T00:00:00+07:00",
-            "date_modified": "2016-11-27T00:00:00+07:00",
             
                 "author":  {
                 "name": "vrx angel",

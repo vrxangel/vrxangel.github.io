@@ -19,6 +19,15 @@
     } ,
   
     {
+      "title"    : "install Android Studio on CentOS 7",
+      "description" : "Tutorial how to install Android Studio on CentOS 7",
+      "category" : "",
+      "tags"     : "android,, linux",
+      "url"      : "/install-android-studio-centos7",
+      "date"     : "2023-03-01 00:00:00 +0700"
+    } ,
+  
+    {
       "title"    : "install Android Studio on Ubuntu",
       "description" : "Tutorial how to install Android Studio on Ubuntu",
       "category" : "",
@@ -196,15 +205,6 @@
       "tags"     : "seo",
       "url"      : "/structured-data-markup-validation-and-testing-tools",
       "date"     : "2016-12-11 00:00:00 +0700"
-    } ,
-  
-    {
-      "title"    : "Top monospaced fonts for coding",
-      "description" : "Take a look at the fonts in this post that can make your text editor or terminal emulator look little bit nicer",
-      "category" : "",
-      "tags"     : "coding",
-      "url"      : "/top-monospaced-fonts-for-coding",
-      "date"     : "2016-11-27 00:00:00 +0700"
     } 
   
 ]
