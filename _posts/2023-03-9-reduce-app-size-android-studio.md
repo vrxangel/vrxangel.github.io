@@ -4,7 +4,6 @@ title: How to reduce the app size in Android Studio
 description: Tutorial how to reduce compiled app project size using android studio
 summary: How to reduce app size using android studio?
 tags: android
-minute: 1
 ---
 ![](https://www.freecodecamp.org/news/content/images/size/w300/2020/08/android.png)
 
