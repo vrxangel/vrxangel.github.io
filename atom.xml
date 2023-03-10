@@ -4,7 +4,7 @@
  <title>Vrx Angel</title>
  <link href="https://vrxangel.github.io/atom.xml" rel="self"/>
  <link href="https://vrxangel.github.io/"/>
- <updated>2023-03-10T22:08:07+07:00</updated>
+ <updated>2023-03-10T22:09:58+07:00</updated>
  <id>https://vrxangel.github.io</id>
  <author>
    <name>vrx angel</name>
@@ -17,7 +17,9 @@
    <link href="https://vrxangel.github.io/reduce-app-size-android-studio"/>
    <updated>2023-03-09T00:00:00+07:00</updated>
    <id>https://vrxangel.github.io/reduce-app-size-android-studio</id>
-   <content type="html">&lt;p&gt;There are several ways to reduce the app size in Android Studio:&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://www.freecodecamp.org/news/content/images/size/w300/2020/08/android.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There are several ways to reduce the app size in Android Studio:&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
