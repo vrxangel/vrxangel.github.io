@@ -10,6 +10,15 @@
     } ,
   
     {
+      "title"    : "install Android Studio on Windows",
+      "description" : "Tutorial how to install Android Studio on Windows",
+      "category" : "",
+      "tags"     : "coding",
+      "url"      : "/install-android-studio-windows",
+      "date"     : "2023-03-08 00:00:00 +0700"
+    } ,
+  
+    {
       "title"    : "Staticman comments on a Jekyll site",
       "description" : "Generating comments on static sites with Staticman",
       "category" : "",
@@ -196,15 +205,6 @@
       "tags"     : "coding",
       "url"      : "/places-where-you-can-learn-how-to-code",
       "date"     : "2015-07-31 00:00:00 +0700"
-    } ,
-  
-    {
-      "title"    : "CSS hacks you may not know",
-      "description" : "This is a collection of short CSS snippets I thought might be useful for beginners",
-      "category" : "",
-      "tags"     : "css, coding",
-      "url"      : "/css-hacks-you-may-not-know",
-      "date"     : "2014-05-12 00:00:00 +0700"
     } 
   
 ]

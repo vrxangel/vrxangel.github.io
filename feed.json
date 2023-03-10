@@ -41,6 +41,30 @@
         },
     
         {
+            "id": "https://vrxangel.github.io/install-android-studio-windows",
+            "title": "install Android Studio on Windows",
+            "summary": "Tutorial how to install Android Studio on Windows",
+            "content_text": "Here are the simple steps to install Android Studio on Windows:  Go to the official Android Studio download page: https://developer.android.com/studio  Click on the “Download” button for the latest version of Android Studio.  Once the download is complete, run the installer.  Follow the instructions in the setup wizard to install Android Studio.  Choose the components you want to install, such as the Android SDK and virtual device support.  Choose the installation location and click “Next”.  Review the installation settings and click “Install”.  Wait for the installation process to complete.After the installation is complete, you can launch Android Studio by double-clicking the shortcut on your desktop or by navigating to the installation directory and launching the executable file.",
+            "content_html": "<p><img src=\"https://developer.android.com/static/codelabs/basic-android-kotlin-compose-install-android-studio/img/8e43aceb34f59418.png\" alt=\"\" /></p><p>Here are the simple steps to install Android Studio on Windows:</p><ol>  <li>Go to the official Android Studio download page: https://developer.android.com/studio</li>  <li>Click on the “Download” button for the latest version of Android Studio.</li>  <li>Once the download is complete, run the installer.</li>  <li>Follow the instructions in the setup wizard to install Android Studio.</li>  <li>Choose the components you want to install, such as the Android SDK and virtual device support.</li>  <li>Choose the installation location and click “Next”.</li>  <li>Review the installation settings and click “Install”.</li>  <li>Wait for the installation process to complete.</li></ol><p>After the installation is complete, you can launch Android Studio by double-clicking the shortcut on your desktop or by navigating to the installation directory and launching the executable file.</p>",
+            "url": "https://vrxangel.github.io/install-android-studio-windows",
+            
+            
+            
+            
+            
+            "date_published": "2023-03-08T00:00:00+07:00",
+            "date_modified": "2023-03-08T00:00:00+07:00",
+            
+                "author":  {
+                "name": "vrx angel",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
             "id": "https://vrxangel.github.io/staticman-comments-on-a-jekyll-site",
             "title": "Staticman comments on a Jekyll site",
             "summary": "Generating comments on static sites with Staticman",
@@ -534,30 +558,6 @@
             
             "date_published": "2015-07-31T00:00:00+07:00",
             "date_modified": "2015-07-31T00:00:00+07:00",
-            
-                "author":  {
-                "name": "vrx angel",
-                "url": null,
-                "avatar": null
-                }
-                
-            
-        },
-    
-        {
-            "id": "https://vrxangel.github.io/css-hacks-you-may-not-know",
-            "title": "CSS hacks you may not know",
-            "summary": "This is a collection of short CSS snippets I thought might be useful for beginners",
-            "content_text": "Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.int main (){\tint hello = 3;\tchar world = 'w';}Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.import java.util.Scanner;  // Import the Scanner classclass Main {  public static void main(String[] args) {    Scanner myObj = new Scanner(System.in);  // Create a Scanner object    System.out.println(\"Enter username\");    String userName = myObj.nextLine();  // Read user input    System.out.println(\"Username is: \" + userName);  // Output user input  }}Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.",
-            "content_html": "<p>Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.</p><p>Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.</p><div class=\"language-c highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code><span class=\"kt\">int</span> <span class=\"nf\">main</span> <span class=\"p\">(){</span>\t<span class=\"kt\">int</span> <span class=\"n\">hello</span> <span class=\"o\">=</span> <span class=\"mi\">3</span><span class=\"p\">;</span>\t<span class=\"kt\">char</span> <span class=\"n\">world</span> <span class=\"o\">=</span> <span class=\"sc\">'w'</span><span class=\"p\">;</span><span class=\"p\">}</span></code></pre></div></div><p>Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.</p><div class=\"language-java highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code><span class=\"kn\">import</span> <span class=\"nn\">java.util.Scanner</span><span class=\"o\">;</span>  <span class=\"c1\">// Import the Scanner class</span><span class=\"kd\">class</span> <span class=\"nc\">Main</span> <span class=\"o\">{</span>  <span class=\"kd\">public</span> <span class=\"kd\">static</span> <span class=\"kt\">void</span> <span class=\"nf\">main</span><span class=\"o\">(</span><span class=\"nc\">String</span><span class=\"o\">[]</span> <span class=\"n\">args</span><span class=\"o\">)</span> <span class=\"o\">{</span>    <span class=\"nc\">Scanner</span> <span class=\"n\">myObj</span> <span class=\"o\">=</span> <span class=\"k\">new</span> <span class=\"nc\">Scanner</span><span class=\"o\">(</span><span class=\"nc\">System</span><span class=\"o\">.</span><span class=\"na\">in</span><span class=\"o\">);</span>  <span class=\"c1\">// Create a Scanner object</span>    <span class=\"nc\">System</span><span class=\"o\">.</span><span class=\"na\">out</span><span class=\"o\">.</span><span class=\"na\">println</span><span class=\"o\">(</span><span class=\"s\">\"Enter username\"</span><span class=\"o\">);</span>    <span class=\"nc\">String</span> <span class=\"n\">userName</span> <span class=\"o\">=</span> <span class=\"n\">myObj</span><span class=\"o\">.</span><span class=\"na\">nextLine</span><span class=\"o\">();</span>  <span class=\"c1\">// Read user input</span>    <span class=\"nc\">System</span><span class=\"o\">.</span><span class=\"na\">out</span><span class=\"o\">.</span><span class=\"na\">println</span><span class=\"o\">(</span><span class=\"s\">\"Username is: \"</span> <span class=\"o\">+</span> <span class=\"n\">userName</span><span class=\"o\">);</span>  <span class=\"c1\">// Output user input</span>  <span class=\"o\">}</span><span class=\"o\">}</span></code></pre></div></div><p>Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.</p>",
-            "url": "https://vrxangel.github.io/css-hacks-you-may-not-know",
-            
-            
-            
-            "tags": ["css","coding"],
-            
-            "date_published": "2014-05-12T00:00:00+07:00",
-            "date_modified": "2014-05-12T00:00:00+07:00",
             
                 "author":  {
                 "name": "vrx angel",
