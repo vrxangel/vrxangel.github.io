@@ -1,6 +1,6 @@
 site: Vrx Angel
 title: Vrx Angel
-greetings: Share Simple Knowledges 👋
+greetings: Simple How To 👋
 description: How to, News, Tutorial
 lang: en-US
 timezone:  Asia/Jakarta
@@ -10,7 +10,7 @@ discus-identifier: # replace with your disqus shortname
 
 author:
   name: vrx angel
-  bio: personal blog
+  bio: tutorial & news
   userpicture: https://i.ibb.co/vxhmwy4/png-1.png
   username: # general username
   github: # github username
