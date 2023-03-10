@@ -1,18 +1,17 @@
-site: Gesko
-title: Gesko
-greetings: Hi 👋
-description: >-
-  just a minimalist, personal blog
+site: Vrx Angel
+title: Vrx Angel
+greetings: Share Simple Knowledges 👋
+description: How to, News, Tutorial
 lang: en-US
-timezone:  Europe/Rome
-repo: https://github.com/DavideBri/Gesko # site repo [optional]
+timezone:  Asia/Jakarta
+repo: https://vrxangel.github.io # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
-discus-identifier: powex # replace with your disqus shortname
+discus-identifier: # replace with your disqus shortname
 
 author:
-  name: gesko
-  bio: just a minimalist, personal blog
-  userpicture: 
+  name: vrx angel
+  bio: personal blog
+  userpicture: https://i.ibb.co/vxhmwy4/png-1.png
   username: # general username
   github: # github username
   twitter: # twitter username
@@ -22,8 +21,8 @@ author:
 googlewebfonts: family=Play:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,300;1,400;1,500;1,600;1,700;1,900
 
 # URL settings
-url: "https://DavideBri.github.io" # Domain Name of host. [username].github.io for github pages
-baseurl: "/Gesko" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
+url: "https://vrxangel.github.io" # Domain Name of host. [username].github.io for github pages
+baseurl: "" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
 permalink: pretty
 
 # local
@@ -65,7 +64,7 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /:year/:month/:day/:slug
+    permalink: /:slug
   
 defaults:
   -
